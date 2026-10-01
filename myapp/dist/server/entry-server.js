@@ -3,7 +3,7 @@ import { renderToString } from "react-dom/server";
 import { jsx } from "react/jsx-runtime";
 //#region src/App.tsx
 function App() {
-	return "Hello World!";
+	return "Hello Everyone!";
 }
 //#endregion
 //#region src/entry-server.tsx
